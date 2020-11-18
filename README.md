@@ -7,7 +7,7 @@
 ##### - Eternal apprentice, but always hands on.
 
 <!--
-**AlienDev66/AlienDev66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Anderson Francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="AlienDev66" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="Anderson Francisco" /> </p>
   
 
 
