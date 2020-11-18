@@ -40,9 +40,9 @@ Here are some ideas to get you started:
   
 
 
-<p><img src="https://komarev.com/ghpvc/?username=AlienDev66" alt="Anderson Francisco" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="Anderson Francisco" /> </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienDev66&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
