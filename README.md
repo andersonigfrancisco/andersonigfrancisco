@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlienDev66&show_icons=true" alt="AlienDev66-status" />
+<img src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&show_icons=true" alt="andersonigfrancisco-status" />
