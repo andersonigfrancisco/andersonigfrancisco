@@ -12,7 +12,7 @@
 ## Overview
 
 
-##### - Eternal apprentice, but always hands on.
+**Languages and Tools:**
 
 <!--
 **Anderson Francisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
