@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" src="https://github.com/andersonigfrancisco/andersonigfrancisco/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of andersonigfrancisco" width=265px height=265px/>
+<img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
 ![anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&count_private=true&show_icons=true&theme=radical)
 
