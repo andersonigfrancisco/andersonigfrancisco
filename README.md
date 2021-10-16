@@ -48,6 +48,20 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+
+[![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=Orlandoj77&bg_color=000000&color=E30BF9&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/Orlandoj77/github-readme-activity-graph)
+<br>
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Orlandoj77/count.svg" alt="Visitor Count" /></h2>
+<h3 align="center">Fuking Bug<img src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" width="30"></h3>
+
+
+
+
+
+
 <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of AlienDev66" width=265px height=265px/>
 
 ![anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&count_private=true&show_icons=true&theme=radical)
