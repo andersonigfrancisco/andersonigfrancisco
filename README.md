@@ -54,6 +54,14 @@ Here are some ideas to get you started:
 ![anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&count_private=true&show_icons=true&theme=radical)
 
 
+
+</div>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Orlandoj77&theme=radical&show_icons=true" />  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Orlandoj77&theme=radical&show_icons=true" />
+</div>
+
+
 [![Raveena's github activity graph](https://activity-graph.herokuapp.com/graph?username=andersonigfrancisco&bg_color=000000&color=E30BF9&line=2fc8ee&point=ffffff&area=true&hide_border=true)](https://github.com/andersonigfrancisco/github-readme-activity-graph)
 <br>
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/andersonigfrancisco/count.svg" alt="Visitor Count" /></h2>
