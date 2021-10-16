@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</div>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&theme=radical&show_icons=true" />  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonigfrancisco&theme=radical&show_icons=true" />
