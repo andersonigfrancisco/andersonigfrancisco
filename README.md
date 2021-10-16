@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 <p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="Anderson Francisco" /> </p>
 
-<div align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&theme=radical&show_icons=true" />  
