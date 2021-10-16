@@ -5,7 +5,7 @@
 ##### I’m a software developer, hard worker, eager to learn, I enjoy learn new technologies and put it in practice.
 
 - 🔭 I’m currently working on SNIR, SA
-- 🌱 I’m currently learning Node JS,TypeCripty,React-Native and Kubernetes
+- 🌱 I’m currently learning Node JS,TypeScript,React-Native and Kubernetes
 - 👯 I’m looking to collaborate on open source projects.
 - ⚡
 
