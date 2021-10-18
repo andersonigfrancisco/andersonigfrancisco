@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="Anderson Francisco" /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)]
 
 
 <div align="center">
