@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&theme=radical&show_icons=true" />  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonigfrancisco&theme=radical&show_icons=true" />
-  <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of andersonigfrancisco" width=265px height=265px/>
+  <img align="right" src="https://github.com/andersonigfrancisco/andersonigfrancisco/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of andersonigfrancisco" width=265px height=265px/>
 </div>
 
 
