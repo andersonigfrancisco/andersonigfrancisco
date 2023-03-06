@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-<p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="andersonigfranciscos" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=andersonigfrancisco" alt="andersonigfrancisco" /> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonigfrancisco&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=andersonigfrancisco&theme=radical&show_icons=true" />  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonigfrancisco&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=andersonigfrancisco&theme=radical&show_icons=true" />
   <img align="right" src="https://github.com/AlienDev66/AlienDev66/blob/master/undraw_developer_activity_bv83.svg" alt="Illustration of andersonigfrancisco" width=265px height=265px/>
 </div>
 
